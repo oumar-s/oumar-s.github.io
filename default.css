@@ -392,6 +392,10 @@ h6 { font-size: 16px;}
 	background-color: var(--buttonColor);
 	border:none;
 }
+
+#mc-embedded-subscribe:hover{
+	cursor: pointer;
+}
 #foot{
 	background-color: var(--mainColor);
 	text-align: center;
