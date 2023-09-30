@@ -348,6 +348,9 @@ h6 { font-size: 16px;}
 	color:#4b5156;
 	font-size: 14px;
 }
+.proj_links{
+	float: right;
+}
 
 
 #mc-embedded-subscribe-form{
